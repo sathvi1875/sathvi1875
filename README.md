@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sathvik
+- 👀 I’m interested in Automobile industry  
+- 🌱 I’m recently graduated from University of South Florida
+- ❤️ I'm looking for a challenging role in Embedded Systems
